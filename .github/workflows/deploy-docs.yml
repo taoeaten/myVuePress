@@ -49,4 +49,5 @@ jobs:
         with:
           # 部署文档
           branch: gh-pages
+          base: 'myVuePress'
           folder: src/.vuepress/dist
