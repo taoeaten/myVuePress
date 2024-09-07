@@ -1,10 +1,18 @@
+/*
+ * @Descripttion: BOP
+ * @version: 1.0
+ * @Author: Taoeaten
+ * @Date: 2024-09-07 09:50:51
+ * @LastEditors: Taoeaten
+ * @LastEditTime: 2024-09-07 17:29:58
+ */
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
   "/demo/",
   {
-    text: "博文",
+    text: "Blog",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [

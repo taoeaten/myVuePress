@@ -2,11 +2,12 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+title: 主页
+heroImage: /tem.jpg
+heroText: Tamms·Edes·Marni
+bgImage: /home.jpg
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: Time is money, just enjoy it!!
 projects:
   - icon: project
     name: 项目名称
