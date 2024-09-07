@@ -1,9 +1,17 @@
+/*
+ * @Descripttion: BOP
+ * @version: 1.0
+ * @Author: Taoeaten
+ * @Date: 2024-09-07 09:50:51
+ * @LastEditors: Taoeaten
+ * @LastEditTime: 2024-09-07 10:57:03
+ */
 import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/myVuePress",
 
   lang: "zh-CN",
   title: "博客演示",
