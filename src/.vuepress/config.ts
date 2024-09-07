@@ -4,14 +4,14 @@
  * @Author: Taoeaten
  * @Date: 2024-09-07 09:50:51
  * @LastEditors: Taoeaten
- * @LastEditTime: 2024-09-07 10:57:03
+ * @LastEditTime: 2024-09-07 11:00:06
  */
 import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/myVuePress",
+  base: "/myVuePres/",
 
   lang: "zh-CN",
   title: "博客演示",
