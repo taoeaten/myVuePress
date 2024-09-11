@@ -174,6 +174,11 @@ export default hopeTheme({
       // sandpack: true,
     },
 
+    docsearch: {
+      // plugin options here
+      // appId, apiKey and indexName are required
+    },
+    
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",
