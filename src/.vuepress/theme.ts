@@ -177,6 +177,9 @@ export default hopeTheme({
     docsearch: {
       // plugin options here
       // appId, apiKey and indexName are required
+      appId: 'YQNUAEOCNJ',
+      apiKey: '6204604a2ceb964b98369d84a12aee47',
+      indexName: 'taoeatenio',
     },
     
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
